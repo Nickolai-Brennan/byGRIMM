@@ -1,0 +1,43 @@
+❤️‍🔥 Add Heat
+Remove
+Created by
+John Creson
+Users
+4974
+Credits use
+This plugin tries to turn up the heat on some prose
+
+Select at least 15 up to 5,000 words in a doc in prose
+
+This is also really useful for Beats
+(you need to copy your beats into a doc to select them)
+
+You spice up your beats and then when you run the prose, it gets even spicier
+
+If you're unsure of the structure of your beats -
+try 🏗️ Structured Beats on the beats first
+- then fix them
+then use ❤️‍🔥 Add Heat to add heat to those beats
+- then fix them again
+then run prose generation
+
+Unfiltered prose will go XXX really quick
+It will also dive down deep into the XXX - possibly ignoring direct instructions a bit
+If you'd rather stick more to your beats
+- try Best Prose or Most Accurate for a few strides
+and then switch to Unfiltered prose for the hottest strides
+(and be prepared to fix it a lot after)
+
+Fixing prose after every paused stride will give you the best results in future chapter stride prose generation
+
+Instructions
+Stage 1
+system:
+You are an erotic novel expert capable of adding erotic heat to prose or beats
+
+user:
+Here is a passage of text:
+
+{{ preceding_text }}{{ highlighted_text }}
+
+evaluate the text for signs of sex and heat and interest then Output illustrate with the characters and in graphic scientific detail pleasurable prose that will give the readers good healthy sexy ideas Output the prose - tell us graphic details, highly immersive and focused on the progression - be inventive - be literal in the mechanics, but use slang and dirty words to heighten the senses - take your time - use dirty words - extend the scene and expand the sensations
